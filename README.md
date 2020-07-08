@@ -1,5 +1,5 @@
 
-#### [Registration](#registration)
+#### [Registration](#registration-1)
 #### [Lessons](#lessons-1)
 #### [About ChiCode](#about-chicode-1)
 #### [FAQ](#faq-1)
@@ -77,8 +77,13 @@ I am a junior attending Lynbrook High School. I love to code in Java, Python, an
 
 ## International Chapters
 ### Vikram Pasricha
-#### *Chapter Head - India*
+#### *Chapter Head of Public Outreach - India*
 *vikram@chicode.tech*  
+### Shantae Morgan
+#### *Chapter Head of Public Outreach - Africa*  
+*shantae@chicode.tech*
+
+
 
 Interested in becoming a volunteer? Fill out this [application](https://docs.google.com/forms/d/1HY-Xhw8xfrSl9QZs87ZMEO9eISi3kU92NOg3IxMw1Fs/viewform?ts=5edf24e9&edit_requested=true).
 
@@ -88,7 +93,7 @@ Interested in becoming a volunteer? Fill out this [application](https://docs.goo
 
 Contact us at team@chicode.tech!
 
-Check us out on [Facebook](https://www.facebook.com)!
+Check us out on [LinkedIn](https://www.linkedin.com)!
 
 Follow us on [Instagram](https://www.instagram.com)!
 
