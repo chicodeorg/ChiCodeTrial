@@ -1,10 +1,4 @@
-
-#### [Registration](#registration-1)
-#### [Lessons](#lessons-1)
-#### [About ChiCode](#about-chicode-1)
-#### [FAQ](#faq-1)
-#### [Meet the Team](#meet-the-team-1)
-#### [Support and Contact](#support--contact)
+#### [*REGISTRATION*](#registration)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [*LESSONS*](#lessons)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [*ABOUT CHICODE*](#about-chicode)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*FAQ*](#faq)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*MEET THE TEAM*](#meet-the-team) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*SUPPORT AND CONTACT*](#support--contact)
 
 
 -------------------
