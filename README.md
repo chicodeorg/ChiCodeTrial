@@ -82,6 +82,9 @@ I am a junior attending Lynbrook High School. I love to code in Java, Python, an
 ### Shantae Morgan
 #### *Chapter Head of Public Outreach - Africa*  
 *shantae@chicode.tech*
+### Khome Wood
+#### *Chapter Head of Public Outreach - Africa*  
+*khome@chicode.tech*
 
 
 
