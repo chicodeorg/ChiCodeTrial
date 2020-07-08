@@ -2,7 +2,7 @@
 #### [Regisration](#registration)
 #### [Lessons](#lessons)
 #### [About ChiCode](#about-chicode)
-#### [FAQ](#faq)
+#### [FAQ](#faq-1)
 #### [Meet the Team](#meet-the-team)
 #### [Support and Contact](#support--contact)
 
