@@ -1,9 +1,9 @@
 
-#### [Regisration](#registration)
-#### [Lessons](#lessons)
-#### [About ChiCode](#about-chicode)
+#### [Registration](#registration)
+#### [Lessons](#lessons-1)
+#### [About ChiCode](#about-chicode-1)
 #### [FAQ](#faq-1)
-#### [Meet the Team](#meet-the-team)
+#### [Meet the Team](#meet-the-team-1)
 #### [Support and Contact](#support--contact)
 
 
