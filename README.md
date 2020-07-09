@@ -33,7 +33,9 @@ ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer pr
 ---------------------
 
 ## SPONSORS
-
+### Hyper X
+### Wolfram Language
+### Magoosh
 
 ---------------------
 
